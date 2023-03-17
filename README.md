@@ -20,3 +20,6 @@
 * User Story #9: The img element should be centered within its parent element.
 
 View on codepen : https://codepen.io/dhanukaperera/pen/eYpWejw
+
+## Preview
+![961shots_so](https://user-images.githubusercontent.com/13520855/225977904-b92e0dcc-fde5-492a-b029-b8f92d0bf825.png)
